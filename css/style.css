@@ -1,0 +1,61 @@
+body{
+    background: url("../img/bg.gif") repeat;
+    font-family: Verdana, Arial, Tahoma;
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    margin: 0 auto;
+    width: 1000px;
+}
+
+#header img{
+    width: 1000px;
+}
+
+#header {
+    height: 345px;
+}
+
+#header div {
+    margin-top: -60px;
+    margin-left: 20px;
+}
+#header p{
+    margin: 0;
+}
+
+#header .blue{
+    color: lightblue;
+    font-weight: bold;
+}
+
+
+
+
+
+html, body {
+    background: #FFFCF5 url(../img/bg.gif) repeat-x;
+    height: 100%
+}
+body, td {
+    font: 11px Tahoma, Arial;
+    color: #6C6B67
+}
+a:link, a:visited, a:active {
+    font: 11px Tahoma, Arial;
+    color: #1E77A1
+}
+a:hover {
+    color: red
+}
+.arr1:link, .arr1:visited, .arr1:active {
+    background: url(../img/arr1.gif) no-repeat right;
+    padding-right: 15px; font-weight: bold
+}
+#pageTxt {
+    -moz-box-sizing: padding-box;
+    padding: 10px 15px 0px 25px;
+    text-align: left
+}
